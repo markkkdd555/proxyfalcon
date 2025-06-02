@@ -1,0 +1,4 @@
+.whatsapp.net/
+.facebook.net/
+.twitter.com/
+.speedtest.net/
